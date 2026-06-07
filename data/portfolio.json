@@ -37,11 +37,6 @@
           "logo": "/assets/images/socials/icons/instagram.png"
         },
         {
-          "kind": "youtube",
-          "url": "https://www.youtube.com/@yura-hong",
-          "logo": "/assets/images/socials/icons/youtube.png"
-        },
-        {
           "kind": "soundcloud",
           "url": "https://soundcloud.com/yurahong",
           "logo": "/assets/images/socials/icons/soundcloud.png"
@@ -276,5 +271,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-07T10:36:27.466Z"
+  "lastUpdated": "2026-06-07T10:43:47.249Z"
 }
