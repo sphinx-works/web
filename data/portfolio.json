@@ -1,0 +1,270 @@
+{
+  "about": {
+    "groupName": "Sphinx Works",
+    "tagline": "xxxxxxxxxxxx",
+    "logo": "/assets/images/logo/main.png",
+    "socials": [
+      {
+        "kind": "instagram",
+        "url": "https://www.instagram.com/sphinx_works",
+        "logo": "/assets/images/socials/icons/instagram.png"
+      }
+    ]
+  },
+  "members": [
+    {
+      "id": "nt",
+      "name": "LowwNT",
+      "image": "/assets/images/profile/nt.png",
+      "introduction": "xxx",
+      "socials": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/loww.nt",
+          "logo": "/assets/images/socials/icons/instagram.png"
+        }
+      ]
+    },
+    {
+      "id": "mode",
+      "name": "Mode",
+      "image": "/assets/images/profile/mode.png",
+      "introduction": "xxx",
+      "socials": [
+        {
+          "kind": "linktree",
+          "url": "https://linktr.ee/ruahong",
+          "logo": "/assets/images/socials/icons/linktree.png"
+        }
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "black_white_cats_2024",
+      "title": "Black & White Cats",
+      "image": "/assets/images/works/black_white_cats_2024/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2024-04-08T00:00:00Z"
+          }
+        },
+        {
+          "type": "physical",
+          "details": {
+            "width": "200mm",
+            "height": "200mm"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bloody_arm_2026",
+      "title": "Bloody Arm",
+      "image": "/assets/images/works/bloody_arm_2026/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2026-02-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "couple_2024",
+      "title": "Couple",
+      "image": "/assets/images/works/couple_2024/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2024-05-09T00:00:00Z"
+          }
+        },
+        {
+          "type": "physical",
+          "details": {
+            "width": "725mm",
+            "height": "310mm"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "life_planet_2024",
+      "title": "Life Planet",
+      "image": "/assets/images/works/life_planet_2024/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2024-08-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "physical",
+          "details": {
+            "width": "297mm",
+            "height": "420mm"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "medusa_2025",
+      "title": "Medusa",
+      "image": "/assets/images/works/medusa_2025/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2025-08-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "orange_teal_girls_2025",
+      "title": "Orange Teal Girls",
+      "image": "/assets/images/works/orange_teal_girls_2025/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2025-10-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "red_man_2025",
+      "title": "Red Man",
+      "image": "/assets/images/works/red_man_2025/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2025-04-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "string_girls_2025",
+      "title": "String Girls",
+      "image": "/assets/images/works/string_girls_2025/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2025-08-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "physical",
+          "details": {
+            "width": "606mm",
+            "height": "727mm"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "triangle_cat_2026",
+      "title": "Triangle Cat",
+      "image": "/assets/images/works/triangle_cat_2026/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2026-01-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wired_girl_2024",
+      "title": "Barbed Wire",
+      "image": "/assets/images/works/wired_girl_2024/main.jpg",
+      "attributes": [
+        {
+          "type": "temporal",
+          "details": {
+            "created_at": "2024-09-01T00:00:00Z"
+          }
+        },
+        {
+          "type": "physical",
+          "details": {
+            "width": "241mm",
+            "height": "725mm"
+          }
+        },
+        {
+          "type": "author",
+          "details": {
+            "created_by": "loww_nt"
+          }
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-15T03:33:45.185Z"
+}
