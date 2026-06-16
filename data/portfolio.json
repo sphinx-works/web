@@ -3,6 +3,7 @@
     "groupName": "Sphinx Works",
     "tagline": "xxxxxxxxxxxx",
     "logo": "/assets/images/logo/main.png",
+    "titleImg": "/assets/images/logo/text.png",
     "socials": [
       {
         "kind": "instagram",
@@ -266,5 +267,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-15T03:33:45.185Z"
+  "lastUpdated": "2026-06-16T01:05:10.652Z"
 }
